@@ -1,0 +1,14 @@
+# Dependências
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configurações de ambiente
+.env
+
+# Configurações de IDE
+.vscode/
+.idea/
